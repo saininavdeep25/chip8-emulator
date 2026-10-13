@@ -15,18 +15,6 @@ Chip-8 is an interpreted programming language, developed in the 1970s, designed 
 - Step-by-step debugging
 - Portable codebase
 
-## Screenshots
-
-<img width="1483" height="767" alt="image" src="https://github.com/user-attachments/assets/7eb76559-e439-4386-9ae1-61eddb98888b" />
-
-<img width="998" height="532" alt="image" src="https://github.com/user-attachments/assets/a1bf338f-db40-4f1e-81ed-31c4d2c01b6b" />
-
-
-
-Controls:
-
-<img width="377" height="219" alt="image" src="https://github.com/user-attachments/assets/7f520cf9-af89-4435-b10d-899448393894" />
-
 
 ## ROMs
 
